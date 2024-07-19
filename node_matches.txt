@@ -1,0 +1,9 @@
+IMDB - Movie Review Matches:
+{('item', 'item'): 1.0, ('Name', 'Name'): 1.0, ('ReleaseDate', 'ReleaseDate'): 1.0, ('Director', 'Director'): 1.0, ('Creator', 'Creator'): 1.0}
+
+Bollywood - Movie Review Matches:
+{('item', 'item'): 1.0, ('Director', 'Director'): 1.0, ('Name', 'Name'): 1.0}
+
+Rotten Tomatoes - Movie Review Matches:
+{('item', 'item'): 1.0, ('Name', 'Name'): 1.0, ('Director', 'Director'): 1.0, ('Creator', 'Creator'): 1.0}
+

@@ -1,0 +1,12 @@
+IMDB Schema Tree:
+{'IMDB': 'str', 'item': 'str', 'Id': 'str', 'Name': 'str', 'YearRange': 'str', 'ReleaseDate': 'str', 'Director': 'str', 'Creator': 'str', 'Duration': 'str', 'ContentRating': 'str', 'Genre': 'str', 'Url': 'str', 'Description': 'str', 'RatingValue': 'str', 'Cast': 'str'}
+
+Bollywood Schema Tree:
+{'Bollywood': 'str', 'item': 'str', 'Actors_1': 'str', 'Actors_2': 'str', 'Actors_3': 'str', 'Actors_4': 'str', 'Actors_5': 'str', 'Actors_6': 'str', 'Actors_7': 'str', 'Budget': 'str', 'Dialogue': 'str', 'Director': 'str', 'First_Day': 'str', 'First_Week': 'str', 'First_Weekend': 'str', 'Genre': 'str', 'India_Gross': 'str', 'Lyrics': 'str', 'Music': 'str', 'Overseas_Gross': 'str', 'Producer': 'str', 'Production_Banner': 'str', 'Release_Date': 'str', 'Runtime': 'str', 'Screens': 'str', 'Story': 'str', 'Name': 'str', 'Worldwide_Gross': 'str', 'Screenplay': 'str', 'Directors': 'str'}
+
+Rotten Tomatoes Schema Tree:
+{'RottenTomatoes': 'str', 'item': 'str', 'Id': 'str', 'Name': 'str', 'Year': 'str', 'Release_Date': 'str', 'Director': 'str', 'Creator': 'str', 'Actors': 'str', 'Cast': 'str', 'Language': 'str', 'Country': 'str', 'Duration': 'str', 'RatingValue': 'str', 'RatingCount': 'str', 'ReviewCount': 'str', 'Genre': 'str', 'Filming_Locations': 'str', 'Description': 'str'}
+
+Movie Review Schema Tree:
+{'MovieOverview': 'str', 'item': 'str', 'id': 'str', 'Name': 'str', 'ReleaseDate': 'str', 'Director': 'str', 'Creator': 'str'}
+
